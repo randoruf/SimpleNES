@@ -1,6 +1,8 @@
 SimpleNES
 =============
 
+“玩”明白计算机底层系列-计组-红白机模拟器 <https://zhuanlan.zhihu.com/p/406252623>
+
 
 An NES emulator written in C++ for nothing but fun.
 
